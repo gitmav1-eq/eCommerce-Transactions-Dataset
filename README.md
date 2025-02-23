@@ -1,5 +1,4 @@
-# eCommerce Transactions Data Science Assignment
-
+# eCommerce Transactions Data Science Project
 ## Overview
 This repository contains the solution to the eCommerce Transactions Data Science assignment, which involves performing **Exploratory Data Analysis (EDA)**, building a **Lookalike Model**, and conducting **Customer Segmentation/Clustering** on the provided eCommerce dataset.
 
